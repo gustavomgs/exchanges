@@ -1,0 +1,19 @@
+{
+    "name": "gustavomgs/exchanges",
+    "description": "A  PHP for cryptocurrency trading and e-commerce with support for many bitcoin/ether/altcoin exchange markets and merchant APIs.",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Gustavomgs\\Exchanges\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Gustavo Messias",
+            "email": "gustavomgs13@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
